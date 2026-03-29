@@ -1,6 +1,6 @@
 import { Link } from 'react-router';
 import { Product } from '../data/products';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from '../figma/ImageWithFallback';
 
 interface ProductCardProps {
   product: Product;
