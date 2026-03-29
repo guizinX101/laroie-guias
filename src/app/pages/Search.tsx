@@ -54,7 +54,7 @@ export function Search() {
           </p>
           <Link
             to="/produtos"
-            className="inline-block px-6 py-3 bg-primary text-foreground rounded-lg hover:bg-primary/90 transition-colors"
+            className="inline-block px-6 py-3 bg-[#ffffff18] text-foreground rounded-lg hover:bg-[#ffffff10] transition-colors"
           >
             Ver Todos os Produtos
           </Link>
